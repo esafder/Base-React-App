@@ -13,6 +13,7 @@ Use the following command:
 npx create-react-app react-base-app
 
 .
+.
 
 
 2. Open created directory/project in VS Code
@@ -24,6 +25,8 @@ cd react-base-app
 
 npm start
 
+
+mm
 
 4. Now we will be adding the project we just created to GitHub using the command line:
 
