@@ -12,6 +12,8 @@ Use the following command:
 
 npx create-react-app react-base-app
 
+.
+
 
 2. Open created directory/project in VS Code
 
